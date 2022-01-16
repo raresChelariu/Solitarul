@@ -1,0 +1,29 @@
+#define NON_CASUTA 0
+#define CASUTA_GOALA 1
+#define CASUTA_CU_PIESA 2
+
+#define TABLA_MAX 7
+
+#define DIM_CASUTA 100
+#define DIM_PIESA_CERC 20
+
+#define CULOARE_FUNDAL BLACK
+#define CULOARE_SELECTARE_PIESA RED
+#define CULOARE_PIESA WHITE
+#define CULOARE_TABLA_MARGINE WHITE
+
+#define MARGIN_X 150
+#define MARGIN_Y 30
+
+#define BUTON_TEXT_MUTA "Muta"
+#define BUTON_TEXT_FA_MUTAREA "Fa mutarea"
+#define BUTON_TEXT_ANULARE "Anulare"
+
+#define WINNER_TEXT "Ai castigat jocul SOLITARUL !"
+#define WINNER_TEXT_X 400
+#define WINNER_TEXT_Y 800
+
+#define DIM_ECRAN_WIDTH 1200
+#define DIM_ECRAN_HEIGHT 1000
+
+#define POZA_ECRAN_START "solitarul.jpg"

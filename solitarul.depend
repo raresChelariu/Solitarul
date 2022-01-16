@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1640885728 source:c:\users\ioana\documents\solitarul\main.cpp
+	"actiuni.h"
+
+1639934087 c:\users\ioana\documents\solitarul\casuta.h
+	"predefinite.h"
+
+1639930954 c:\users\ioana\documents\solitarul\predefinite.h
+	<iostream>
+	<fstream>
+	<cmath>
+	<graphics.h>
+	<winbgim.h>
+
+1640885139 c:\users\ioana\documents\solitarul\tabla.h
+	"casuta.h"
+
+1640885540 c:\users\ioana\documents\solitarul\buton.h
+	"predefinite.h"
+
+1640887710 c:\users\ioana\documents\solitarul\actiuni.h
+	"tabla.h"
+	"buton.h"
+
+1642024853 source:c:\users\rares\downloads\solitarul\main.cpp
+	"ecran.h"
+
+1641936366 c:\users\rares\downloads\solitarul\actiuni.h
+	"tabla.h"
+	"buton.h"
+
+1641751059 c:\users\rares\downloads\solitarul\tabla.h
+	"casuta.h"
+
+1641736816 c:\users\rares\downloads\solitarul\casuta.h
+	"predefinite.h"
+	"constante.h"
+	"structuriJoc.h"
+
+1639930954 c:\users\rares\downloads\solitarul\predefinite.h
+	<iostream>
+	<fstream>
+	<cmath>
+	<graphics.h>
+	<winbgim.h>
+
+1641741118 c:\users\rares\downloads\solitarul\buton.h
+	"predefinite.h"
+
+1642025153 c:\users\rares\downloads\solitarul\constante.h
+
+1641736732 c:\users\rares\downloads\solitarul\structurijoc.h
+
+1641737186 c:\users\rares\downloads\solitarul\mutari.h
+	"structuriJoc.h"
+
+1642025818 c:\users\rares\downloads\solitarul\ecran.h
+	"actiuni.h"
+
